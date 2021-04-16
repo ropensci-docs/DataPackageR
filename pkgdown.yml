@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  YAML_CONFIG: YAML_CONFIG.html
+  usingDataPackageR: usingDataPackageR.html
+last_built: 2021-07-12T10:41Z
+urls:
+  reference: https://docs.ropensci.org/DataPackageR/reference
+  article: https://docs.ropensci.org/DataPackageR/articles
+

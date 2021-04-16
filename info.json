@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8c443ca31725a337d6bb09c4e3396ff21bec1e9e",
+    "author": "Ellis Hughes <ehhughes@fredhutch.org>",
+    "time": "2021-04-16 20:58:42",
+    "files": 22,
+    "merge": true,
+    "message": "Merge pull request #88 from ropensci/cran_submission_v0.15.8\n\nCran submission v0.15.8"
+  },
+  "remote": "https://github.com/ropensci/DataPackageR",
+  "pkg": "DataPackageR"
+}
