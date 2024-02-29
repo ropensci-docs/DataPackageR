@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1bfcf63692ff723cbbc204412cf0c8e97465024c",
+    "author": "Marie Vendettuoli <mariecv26@gmail.com>",
+    "time": "2022-04-05 18:07:06",
+    "files": 25,
+    "merge": false,
+    "message": "Fix compare digests (#95)\n\n* Author changes in description file\r\n\r\n* Dev version bump\r\n\r\n* update compare for same number of dataobjects\r\n\r\n* Update CONTRIBUTING.md with Git workflow guidlines and CI reminder. (#87)\r\n\r\nCo-authored-by: Jason Taylor jmtaylor@fredhutch.org\r\n\r\n* Vignette edits (#92)\r\n\r\n* text edits to vignettes\r\n* match casing for vignette names\r\n* rm non-rmd files in vignettes, add .gitignore to vignettes\r\n* add style pointers for vignettes to contributing\r\n\r\n* alter valid name expression to allow for different names in each set\r\n\r\n* add tests for .compare_digests\r\n\r\n* Usethis patch (#74)\r\n\r\n* Patch to address #73\r\n* bump version, update travis, test locally, rerun codemeta. #73\r\n* imports for withr for #73\r\n* update news. #73\r\n\r\n* refactor logic of .compare_digests, fix typo package_build help\r\n\r\n* add test for .compare_digests refactor\r\n\r\n* Add maintainer email and role.\r\n\r\n* improve test coverage\r\n\r\n* new_digest zero length check in .check_digests not needed, removed\r\n\r\n* specify serialization for backward compatibility (#94)\r\n\r\n* specify serialization for backward compatibility\r\n\r\n* removed whitespace edits\r\n\r\nCo-authored-by: Jason Taylor <jmtaylor@fredhutch.org>\r\n\r\n* add condition for checking for removed data in digest\r\n\r\n* fix list subsetting, update tests\r\n\r\n* add back deleted dataversion.R\r\n\r\nCo-authored-by: William Fulp <wfulp@fredhutch.org>\r\nCo-authored-by: jmtaylor-fhcrc <42221209+jmtaylor-fhcrc@users.noreply.github.com>\r\nCo-authored-by: Jason Taylor <jmtaylor@fredhutch.org>\r\nCo-authored-by: Greg Finak <greg.finak@gmail.com>\r\nCo-authored-by: Jimmy Fulp <WilliamJFulp@gmail.com>"
+  },
+  "repo": "https://github.com/ropensci/DataPackageR",
+  "pkg": "DataPackageR"
+}
