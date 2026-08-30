@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "91c3001bcfab7dc84e99e858e847094b4bf1b733",
+    "author": "Dave Slager <slager@users.noreply.github.com>",
+    "time": "2025-12-08T06:27:46Z",
+    "files": 1,
+    "merge": false,
+    "message": "update codemeta\n"
+  },
+  "repo": "https://github.com/ropensci/DataPackageR",
+  "pkg": "DataPackageR",
+  "time": "2026-08-30T07:19:27Z"
+}
